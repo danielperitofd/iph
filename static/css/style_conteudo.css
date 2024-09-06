@@ -1,0 +1,148 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Paleta de cores baseada em verde */
+:root {
+    --cor-primaria: #2ecc71; /* Verde */
+    --cor-secundaria: #27ae60; /* Verde mais escuro */
+    --cor-texto: #333; /* Cor do texto principal */
+  }
+  
+  /* Estilo padrão para botões */
+  button {
+    background-color: var(--cor-primaria);
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 10px;
+    padding: 9px;
+    
+  }
+  
+  /* Efeito de mudança de cor nos botões ao passar o mouse */
+  button:hover {
+    background-color: var(--cor-secundaria);
+  }
+  
+  /* Estilo padrão para campos de entrada */
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 7px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  /* Efeito de mudança de cor nos campos de entrada ao passar o mouse */
+  input[type="text"]:hover,
+  input[type="password"]:hover {
+    border-color: var(--cor-primaria);
+  }
+  
+  /* Centralizar todo o conteúdo horizontalmente */
+body 
+{
+    text-align: center;
+}
+  
+  /* Centralizar os elementos dentro de seus contêineres */
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* ou qualquer largura desejada */
+  }
+
+  /* Estilo para os campos de entrada */
+input[type="text"],
+input[type="password"] 
+{
+  width: 15%; /* Defina o tamanho desejado para os campos de entrada */
+  padding: 7px;
+  margin: 10px auto; /* Centraliza horizontalmente com margem automática nas laterais */
+  display: block; /* Para garantir que os elementos fiquem em uma nova linha */
+}
+
+/* :::::::::: Estilos somente para as tabelas :::::::::::::: */
+.styled-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Estilizando o cabeçalho */
+.styled-table thead tr {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+}
+
+/* espaçar um pouco as coisas */
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+/* borda inferior a cada linha para separação */
+.styled-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+/* fundo mais claro a cada segunda linha para ajudar na legibilidade */
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+/* borda escura na última linha para indicar o final da tabela */
+.styled-table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+.styled-table tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
+}
+
+/* ::::::::::::::: SOBRE RESPONSIVIDADE ::::::::::::::: */
+
+/* Media Queries para responsividade */
+@media (max-width: 768px) {
+  .styled-table th, .styled-table td {
+      padding: 8px 10px;
+      font-size: 0.8em;
+  }
+
+  input[type="text"],
+  input[type="password"] {
+      width: 100%; /* Ajuste a largura para 100% em telas menores */
+  }
+}
+
+@media (max-width: 480px) {
+  .styled-table th, .styled-table td {
+      padding: 5px;
+      font-size: 0.7em;
+  }
+
+  input[type="text"],
+  input[type="password"] {
+      width: 100%; /* Ajuste a largura para 100% em telas muito pequenas */
+  }
+}

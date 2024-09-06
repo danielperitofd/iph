@@ -1,0 +1,1222 @@
+2024-06-26 19:52:33,851 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-26 19:52:33,852 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-26 19:52:33,858 - INFO -  * Restarting with stat
+2024-06-26 19:52:34,264 - WARNING -  * Debugger is active!
+2024-06-26 19:52:34,279 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 19:52:40,252 - INFO - 127.0.0.1 - - [26/Jun/2024 19:52:40] "[33mGET /conteudo HTTP/1.1[0m" 404 -
+2024-06-26 19:52:47,416 - INFO - 127.0.0.1 - - [26/Jun/2024 19:52:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 19:52:47,539 - INFO - 127.0.0.1 - - [26/Jun/2024 19:52:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 19:52:47,539 - INFO - 127.0.0.1 - - [26/Jun/2024 19:52:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 19:52:47,615 - INFO - 127.0.0.1 - - [26/Jun/2024 19:52:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 19:52:47,665 - INFO - 127.0.0.1 - - [26/Jun/2024 19:52:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 19:53:43,684 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 19:53:43,763 - INFO -  * Restarting with stat
+2024-06-26 19:53:44,179 - WARNING -  * Debugger is active!
+2024-06-26 19:53:44,195 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 19:54:29,156 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-26 19:54:29,156 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-26 19:54:29,161 - INFO -  * Restarting with stat
+2024-06-26 19:54:29,543 - WARNING -  * Debugger is active!
+2024-06-26 19:54:29,558 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 19:54:43,200 - INFO - 127.0.0.1 - - [26/Jun/2024 19:54:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 19:54:43,324 - INFO - 127.0.0.1 - - [26/Jun/2024 19:54:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 19:54:43,340 - INFO - 127.0.0.1 - - [26/Jun/2024 19:54:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 19:54:43,431 - INFO - 127.0.0.1 - - [26/Jun/2024 19:54:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 19:55:41,722 - INFO - 127.0.0.1 - - [26/Jun/2024 19:55:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 19:55:41,784 - INFO - 127.0.0.1 - - [26/Jun/2024 19:55:41] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 19:55:41,790 - INFO - 127.0.0.1 - - [26/Jun/2024 19:55:41] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 19:55:41,807 - INFO - 127.0.0.1 - - [26/Jun/2024 19:55:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 19:55:41,867 - INFO - 127.0.0.1 - - [26/Jun/2024 19:55:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 19:56:38,707 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "GET / HTTP/1.1" 200 -
+2024-06-26 19:56:38,757 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 19:56:38,767 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 19:56:38,770 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 19:56:38,780 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 19:56:38,792 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 19:56:38,798 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "GET /static/js/script.js HTTP/1.1" 200 -
+2024-06-26 19:56:38,816 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 19:56:38,829 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 19:56:38,834 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 19:56:38,838 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:38] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 19:56:41,807 - INFO - 127.0.0.1 - - [26/Jun/2024 19:56:41] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 19:57:22,310 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 19:57:22,367 - INFO -  * Restarting with stat
+2024-06-26 19:57:22,775 - WARNING -  * Debugger is active!
+2024-06-26 19:57:22,775 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 19:57:31,037 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 19:57:31,084 - INFO -  * Restarting with stat
+2024-06-26 19:57:31,572 - WARNING -  * Debugger is active!
+2024-06-26 19:57:31,575 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 19:58:24,318 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 19:58:24,392 - INFO -  * Restarting with stat
+2024-06-26 19:58:24,867 - WARNING -  * Debugger is active!
+2024-06-26 19:58:24,867 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 19:58:28,266 - INFO - 127.0.0.1 - - [26/Jun/2024 19:58:28] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 19:59:32,271 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 19:59:32,313 - INFO -  * Restarting with stat
+2024-06-26 19:59:32,763 - WARNING -  * Debugger is active!
+2024-06-26 19:59:32,763 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:00:11,067 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:00:11,110 - INFO -  * Restarting with stat
+2024-06-26 20:00:11,507 - WARNING -  * Debugger is active!
+2024-06-26 20:00:11,507 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:00:33,223 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:00:33,290 - INFO -  * Restarting with stat
+2024-06-26 20:00:33,768 - WARNING -  * Debugger is active!
+2024-06-26 20:00:33,776 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:00:37,234 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "GET / HTTP/1.1" 200 -
+2024-06-26 20:00:37,409 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:00:37,409 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:00:37,425 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:00:37,425 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:00:37,510 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:00:37,605 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:00:37,734 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:00:37,792 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:00:37,824 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:00:37,827 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:37] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:00:39,375 - INFO - 127.0.0.1 - - [26/Jun/2024 20:00:39] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:00:57,637 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:00:57,692 - INFO -  * Restarting with stat
+2024-06-26 20:00:58,137 - WARNING -  * Debugger is active!
+2024-06-26 20:00:58,152 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:01:04,095 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "GET / HTTP/1.1" 200 -
+2024-06-26 20:01:04,250 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:01:04,250 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:01:04,266 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:01:04,281 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:01:04,310 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:01:04,318 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:01:04,319 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:01:04,329 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:01:04,335 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:01:04,338 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:04] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:01:05,695 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:05] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:01:55,050 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:01:55,097 - INFO -  * Restarting with stat
+2024-06-26 20:01:55,527 - WARNING -  * Debugger is active!
+2024-06-26 20:01:55,527 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:01:58,609 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "GET / HTTP/1.1" 200 -
+2024-06-26 20:01:58,763 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:01:58,787 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:01:58,792 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:01:58,807 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:01:58,832 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:01:58,849 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:01:58,850 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:01:58,858 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:01:58,867 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:01:58,869 - INFO - 127.0.0.1 - - [26/Jun/2024 20:01:58] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:02:00,246 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:00] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:02:35,856 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:02:35,899 - INFO -  * Restarting with stat
+2024-06-26 20:02:36,307 - WARNING -  * Debugger is active!
+2024-06-26 20:02:36,314 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:02:39,604 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "GET / HTTP/1.1" 200 -
+2024-06-26 20:02:39,764 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:02:39,781 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:02:39,793 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:02:39,800 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:02:39,837 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:02:39,851 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:02:39,857 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:02:39,857 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:02:39,870 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:02:39,873 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:39] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:02:41,232 - INFO - 127.0.0.1 - - [26/Jun/2024 20:02:41] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:03:51,042 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:03:51,110 - INFO -  * Restarting with stat
+2024-06-26 20:03:51,573 - WARNING -  * Debugger is active!
+2024-06-26 20:03:51,592 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:03:55,483 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "GET / HTTP/1.1" 200 -
+2024-06-26 20:03:55,630 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:03:55,646 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:03:55,646 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:03:55,646 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:03:55,689 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:03:55,712 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:03:55,717 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:03:55,794 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:03:55,806 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:03:55,821 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:55] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:03:56,879 - INFO - 127.0.0.1 - - [26/Jun/2024 20:03:56] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:04:54,634 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "GET / HTTP/1.1" 200 -
+2024-06-26 20:04:54,683 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:04:54,687 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:04:54,697 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:04:54,698 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:04:54,730 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:04:54,730 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:04:54,751 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:04:54,764 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:04:54,765 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:04:54,770 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:54] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:04:56,364 - INFO - 127.0.0.1 - - [26/Jun/2024 20:04:56] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:05:18,069 - INFO - 127.0.0.1 - - [26/Jun/2024 20:05:18] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:05:41,323 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:05:41,401 - INFO -  * Restarting with stat
+2024-06-26 20:05:41,861 - WARNING -  * Debugger is active!
+2024-06-26 20:05:41,862 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:09:15,102 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:09:15,148 - INFO -  * Restarting with stat
+2024-06-26 20:09:52,257 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-26 20:09:52,257 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-26 20:09:52,257 - INFO -  * Restarting with stat
+2024-06-26 20:09:52,735 - WARNING -  * Debugger is active!
+2024-06-26 20:09:52,735 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:09:56,411 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "GET / HTTP/1.1" 200 -
+2024-06-26 20:09:56,576 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:09:56,576 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:09:56,591 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:09:56,591 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:09:56,619 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:09:56,801 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:09:56,880 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:09:56,924 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:09:56,934 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:09:56,936 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:56] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:09:59,186 - INFO - 127.0.0.1 - - [26/Jun/2024 20:09:59] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:10:09,238 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:10:09,304 - INFO -  * Restarting with stat
+2024-06-26 20:10:09,803 - WARNING -  * Debugger is active!
+2024-06-26 20:10:09,803 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:10:13,215 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:13] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:10:23,318 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "GET / HTTP/1.1" 200 -
+2024-06-26 20:10:23,464 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:10:23,478 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:10:23,478 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:10:23,478 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:10:23,507 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:10:23,509 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:10:23,515 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:10:23,516 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:10:23,518 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:10:23,518 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:23] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:10:25,931 - INFO - 127.0.0.1 - - [26/Jun/2024 20:10:25] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:11:16,153 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:11:16,215 - INFO -  * Restarting with stat
+2024-06-26 20:11:16,652 - WARNING -  * Debugger is active!
+2024-06-26 20:11:16,652 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:11:20,690 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:20] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:11:24,888 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:24] "GET / HTTP/1.1" 200 -
+2024-06-26 20:11:25,037 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:11:25,037 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:11:25,061 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:11:25,064 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:11:25,080 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:11:25,090 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:11:25,092 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:11:25,110 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:11:25,111 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:11:25,114 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:25] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:11:26,884 - INFO - 127.0.0.1 - - [26/Jun/2024 20:11:26] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:11:43,514 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:11:43,561 - INFO -  * Restarting with stat
+2024-06-26 20:11:43,947 - WARNING -  * Debugger is active!
+2024-06-26 20:11:43,963 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:12:10,930 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:12:10,986 - INFO -  * Restarting with stat
+2024-06-26 20:12:11,396 - WARNING -  * Debugger is active!
+2024-06-26 20:12:11,403 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:12:14,133 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:14] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:12:18,915 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:18] "GET / HTTP/1.1" 200 -
+2024-06-26 20:12:19,071 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:12:19,087 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:12:19,091 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:12:19,091 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:12:19,091 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:12:19,111 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:12:19,135 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:12:19,139 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:12:19,143 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:12:19,144 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:19] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:12:21,123 - INFO - 127.0.0.1 - - [26/Jun/2024 20:12:21] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:12:37,092 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:12:37,216 - INFO -  * Restarting with stat
+2024-06-26 20:12:38,056 - WARNING -  * Debugger is active!
+2024-06-26 20:12:38,065 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:13:44,848 - INFO - 127.0.0.1 - - [26/Jun/2024 20:13:44] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:13:50,681 - INFO - 127.0.0.1 - - [26/Jun/2024 20:13:50] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:14:50,840 - INFO - 127.0.0.1 - - [26/Jun/2024 20:14:50] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:14:57,845 - INFO - 127.0.0.1 - - [26/Jun/2024 20:14:57] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:16:23,252 - INFO - 127.0.0.1 - - [26/Jun/2024 20:16:23] "[33mGET /admin/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:16:45,438 - INFO - 127.0.0.1 - - [26/Jun/2024 20:16:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:16:45,590 - INFO - 127.0.0.1 - - [26/Jun/2024 20:16:45] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:16:45,593 - INFO - 127.0.0.1 - - [26/Jun/2024 20:16:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 20:16:45,640 - INFO - 127.0.0.1 - - [26/Jun/2024 20:16:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:16:45,697 - INFO - 127.0.0.1 - - [26/Jun/2024 20:16:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:17:02,973 - INFO - 127.0.0.1 - - [26/Jun/2024 20:17:02] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:17:03,029 - INFO - 127.0.0.1 - - [26/Jun/2024 20:17:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:17:03,030 - INFO - 127.0.0.1 - - [26/Jun/2024 20:17:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 20:17:03,050 - INFO - 127.0.0.1 - - [26/Jun/2024 20:17:03] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:17:03,116 - INFO - 127.0.0.1 - - [26/Jun/2024 20:17:03] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:17:37,663 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:17:37,713 - INFO -  * Restarting with stat
+2024-06-26 20:17:38,144 - WARNING -  * Debugger is active!
+2024-06-26 20:17:38,163 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:17:44,414 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:17:44,461 - INFO -  * Restarting with stat
+2024-06-26 20:17:44,874 - WARNING -  * Debugger is active!
+2024-06-26 20:17:44,880 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:17:51,132 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:17:51,172 - INFO -  * Restarting with stat
+2024-06-26 20:17:51,586 - WARNING -  * Debugger is active!
+2024-06-26 20:17:51,586 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:17:58,851 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:17:58,907 - INFO -  * Restarting with stat
+2024-06-26 20:17:59,356 - WARNING -  * Debugger is active!
+2024-06-26 20:17:59,371 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:18:38,059 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:18:38,202 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:18:38,216 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 20:18:38,252 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:18:38,305 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:18:47,161 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:18:48,004 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:18:48,068 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:18:48,075 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 20:18:48,175 - INFO - 127.0.0.1 - - [26/Jun/2024 20:18:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:20:24,884 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-26 20:20:24,885 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-26 20:20:24,888 - INFO -  * Restarting with stat
+2024-06-26 20:20:25,255 - WARNING -  * Debugger is active!
+2024-06-26 20:20:25,271 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:21:10,772 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:21:10,825 - INFO -  * Restarting with stat
+2024-06-26 20:21:11,284 - WARNING -  * Debugger is active!
+2024-06-26 20:21:11,284 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:21:14,363 - INFO - 127.0.0.1 - - [26/Jun/2024 20:21:14] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:21:14,518 - INFO - 127.0.0.1 - - [26/Jun/2024 20:21:14] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:21:14,520 - INFO - 127.0.0.1 - - [26/Jun/2024 20:21:14] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 20:21:14,558 - INFO - 127.0.0.1 - - [26/Jun/2024 20:21:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:21:14,609 - INFO - 127.0.0.1 - - [26/Jun/2024 20:21:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:21:35,162 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:21:35,210 - INFO -  * Restarting with stat
+2024-06-26 20:21:35,609 - WARNING -  * Debugger is active!
+2024-06-26 20:21:35,609 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:21:47,041 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:21:47,105 - INFO -  * Restarting with stat
+2024-06-26 20:21:47,553 - WARNING -  * Debugger is active!
+2024-06-26 20:21:47,570 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:21:49,268 - INFO - 127.0.0.1 - - [26/Jun/2024 20:21:49] "GET / HTTP/1.1" 200 -
+2024-06-26 20:21:49,374 - INFO - 127.0.0.1 - - [26/Jun/2024 20:21:49] "GET /static/css/style_login.css HTTP/1.1" 200 -
+2024-06-26 20:22:00,329 - INFO - 127.0.0.1 - - [26/Jun/2024 20:22:00] "GET / HTTP/1.1" 200 -
+2024-06-26 20:22:00,402 - INFO - 127.0.0.1 - - [26/Jun/2024 20:22:00] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:22:22,756 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:22:22,806 - INFO -  * Restarting with stat
+2024-06-26 20:22:23,200 - WARNING -  * Debugger is active!
+2024-06-26 20:22:23,215 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:22:24,283 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:22:24,330 - INFO -  * Restarting with stat
+2024-06-26 20:22:24,756 - WARNING -  * Debugger is active!
+2024-06-26 20:22:24,771 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:22:26,868 - INFO - 127.0.0.1 - - [26/Jun/2024 20:22:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:22:26,986 - INFO - 127.0.0.1 - - [26/Jun/2024 20:22:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:22:27,003 - INFO - 127.0.0.1 - - [26/Jun/2024 20:22:27] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 20:22:27,069 - INFO - 127.0.0.1 - - [26/Jun/2024 20:22:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:22:27,115 - INFO - 127.0.0.1 - - [26/Jun/2024 20:22:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:23:01,589 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:23:01,656 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:23:01,675 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 20:23:01,714 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:23:01,792 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,678 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "GET / HTTP/1.1" 200 -
+2024-06-26 20:23:27,732 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,741 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,741 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,744 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,783 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,785 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,788 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,788 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,797 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:23:27,851 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:27] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:23:30,450 - INFO - 127.0.0.1 - - [26/Jun/2024 20:23:30] "[33mGET /base/login.html HTTP/1.1[0m" 404 -
+2024-06-26 20:28:16,799 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "GET / HTTP/1.1" 200 -
+2024-06-26 20:28:16,846 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:28:16,848 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:28:16,857 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:28:16,866 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:16,881 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:28:16,904 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:28:16,933 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:28:16,959 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:16,976 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:16,979 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:16] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,451 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "GET / HTTP/1.1" 200 -
+2024-06-26 20:28:18,489 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,495 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,501 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,502 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,554 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,564 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,567 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,575 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,579 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:18,623 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:18] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,238 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "GET / HTTP/1.1" 200 -
+2024-06-26 20:28:20,273 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,278 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,292 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,294 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,325 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,340 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,344 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,344 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,351 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:20,357 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:20] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:34,617 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:28:34,661 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:34] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:28:34,663 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 20:28:34,689 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:34,746 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:51,122 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-26 20:28:51,174 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:28:51,186 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-26 20:28:51,226 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:28:51,282 - INFO - 127.0.0.1 - - [26/Jun/2024 20:28:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,539 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "GET / HTTP/1.1" 200 -
+2024-06-26 20:29:00,592 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,595 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,610 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,611 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,634 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,635 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,636 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,642 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,645 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:00,677 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:00] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,042 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "GET / HTTP/1.1" 200 -
+2024-06-26 20:29:02,079 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,083 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,086 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,096 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,131 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,132 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,132 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,132 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,135 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:02,138 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:02] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,080 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "GET / HTTP/1.1" 200 -
+2024-06-26 20:29:57,124 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,128 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,141 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,143 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,155 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,166 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,167 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,179 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,182 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:29:57,185 - INFO - 127.0.0.1 - - [26/Jun/2024 20:29:57] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:30:22,313 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:30:22,363 - INFO -  * Restarting with stat
+2024-06-26 20:30:22,926 - WARNING -  * Debugger is active!
+2024-06-26 20:30:22,926 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:30:25,911 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:25] "GET / HTTP/1.1" 200 -
+2024-06-26 20:30:26,067 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:30:26,067 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:30:26,082 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:30:26,082 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:30:26,103 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:30:26,117 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:30:26,125 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:30:26,137 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:30:26,140 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:30:26,143 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:26] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:30:27,594 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:27] "[35m[1mGET /base HTTP/1.1[0m" 500 -
+2024-06-26 20:30:27,663 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:27] "GET /base?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-26 20:30:27,669 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:27] "GET /base?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-26 20:30:27,682 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:27] "GET /base?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-26 20:30:27,732 - INFO - 127.0.0.1 - - [26/Jun/2024 20:30:27] "[36mGET /base?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:32:36,143 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:32:36,206 - INFO -  * Restarting with stat
+2024-06-26 20:32:36,606 - WARNING -  * Debugger is active!
+2024-06-26 20:32:36,606 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:33:13,708 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "GET / HTTP/1.1" 200 -
+2024-06-26 20:33:13,857 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:33:13,872 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:33:13,872 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:33:13,886 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:33:13,908 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:33:13,922 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:33:13,926 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:33:13,938 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:33:13,941 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:33:13,954 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:13] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:33:15,149 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:15] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+2024-06-26 20:33:15,200 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:15] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-26 20:33:15,201 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:15] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-26 20:33:15,225 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:15] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-26 20:33:15,280 - INFO - 127.0.0.1 - - [26/Jun/2024 20:33:15] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-26 20:34:33,629 - INFO -  * Detected change in 'c:\\Users\\danielguspe\\Desktop\\css-tricks\\app.py', reloading
+2024-06-26 20:34:33,666 - INFO -  * Restarting with stat
+2024-06-26 20:34:34,065 - WARNING -  * Debugger is active!
+2024-06-26 20:34:34,081 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 20:34:38,242 - INFO - 127.0.0.1 - - [26/Jun/2024 20:34:38] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:34:38,353 - INFO - 127.0.0.1 - - [26/Jun/2024 20:34:38] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:34:42,341 - INFO - 127.0.0.1 - - [26/Jun/2024 20:34:42] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:34:42,393 - INFO - 127.0.0.1 - - [26/Jun/2024 20:34:42] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:34:44,307 - INFO - 127.0.0.1 - - [26/Jun/2024 20:34:44] "POST /login HTTP/1.1" 200 -
+2024-06-26 20:34:48,515 - INFO - 127.0.0.1 - - [26/Jun/2024 20:34:48] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:34:49,737 - INFO - 127.0.0.1 - - [26/Jun/2024 20:34:49] "GET /cadastro HTTP/1.1" 200 -
+2024-06-26 20:34:49,784 - INFO - 127.0.0.1 - - [26/Jun/2024 20:34:49] "[33mGET /static/style_cadastro.css HTTP/1.1[0m" 404 -
+2024-06-26 20:36:12,343 - INFO - 127.0.0.1 - - [26/Jun/2024 20:36:12] "GET /cadastro HTTP/1.1" 200 -
+2024-06-26 20:36:12,398 - INFO - 127.0.0.1 - - [26/Jun/2024 20:36:12] "GET /static/css/style_cadastro.css HTTP/1.1" 200 -
+2024-06-26 20:36:36,366 - INFO - 127.0.0.1 - - [26/Jun/2024 20:36:36] "GET /cadastro HTTP/1.1" 200 -
+2024-06-26 20:36:36,403 - INFO - 127.0.0.1 - - [26/Jun/2024 20:36:36] "[36mGET /static/css/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-26 20:36:58,178 - INFO - 127.0.0.1 - - [26/Jun/2024 20:36:58] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-26 20:36:58,178 - INFO - 127.0.0.1 - - [26/Jun/2024 20:36:58] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:36:58,229 - INFO - 127.0.0.1 - - [26/Jun/2024 20:36:58] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:37:07,927 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:07] "POST /login HTTP/1.1" 200 -
+2024-06-26 20:37:10,756 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:10] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:37:15,518 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-26 20:37:15,548 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:15] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:37:15,590 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:15] "[33mGET /static/style_conteudo.css HTTP/1.1[0m" 404 -
+2024-06-26 20:37:15,603 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:15] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:37:37,958 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:37] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:37:37,995 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:37] "GET /static/css/style_conteudo.css HTTP/1.1" 200 -
+2024-06-26 20:37:37,998 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:37:42,943 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:42] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:37:42,994 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:42] "[32mDELETE /excluir/1 HTTP/1.1[0m" 302 -
+2024-06-26 20:37:42,994 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:42] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 20:37:42,995 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:37:45,311 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:45] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:37:45,349 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:45] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 20:37:45,349 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:37:47,496 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:47] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:37:48,215 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:48] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 20:37:48,218 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:37:49,005 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:49] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:37:49,051 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:49] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:37:51,978 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:51] "POST /login HTTP/1.1" 200 -
+2024-06-26 20:37:53,597 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:53] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:37:55,339 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:55] "GET /cadastro HTTP/1.1" 200 -
+2024-06-26 20:37:55,383 - INFO - 127.0.0.1 - - [26/Jun/2024 20:37:55] "[36mGET /static/css/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-26 20:38:12,514 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:12] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-26 20:38:12,514 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:12] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:38:12,562 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:12] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:38:23,101 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:23] "POST /login HTTP/1.1" 200 -
+2024-06-26 20:38:28,486 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:28] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:38:32,245 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:32] "POST /login HTTP/1.1" 200 -
+2024-06-26 20:38:36,527 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:36] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:38:38,198 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:38] "GET /cadastro HTTP/1.1" 200 -
+2024-06-26 20:38:38,243 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:38] "[36mGET /static/css/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-26 20:38:49,863 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:49] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-26 20:38:49,869 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:49] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:38:49,915 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:49] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:38:52,222 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:52] "POST /login HTTP/1.1" 200 -
+2024-06-26 20:38:54,897 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:54] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:38:56,861 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:56] "GET /cadastro HTTP/1.1" 200 -
+2024-06-26 20:38:56,908 - INFO - 127.0.0.1 - - [26/Jun/2024 20:38:56] "[36mGET /static/css/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-26 20:39:15,586 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:15] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-26 20:39:15,586 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:15] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:39:15,637 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:15] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:39:22,118 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-26 20:39:22,125 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:22] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:39:22,178 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:22] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 20:39:22,182 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:22] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:39:29,237 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:29] "GET /editar/2 HTTP/1.1" 200 -
+2024-06-26 20:39:29,284 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:29] "[33mGET /static/style_editreg.css HTTP/1.1[0m" 404 -
+2024-06-26 20:39:46,182 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:46] "GET /editar/2 HTTP/1.1" 200 -
+2024-06-26 20:39:46,234 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:46] "GET /static/css/style_editreg.css HTTP/1.1" 200 -
+2024-06-26 20:39:53,286 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:53] "[32mPOST /editar/2 HTTP/1.1[0m" 302 -
+2024-06-26 20:39:53,304 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:53] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:39:53,353 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:39:53,353 - INFO - 127.0.0.1 - - [26/Jun/2024 20:39:53] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 20:41:22,588 - INFO - 127.0.0.1 - - [26/Jun/2024 20:41:22] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:41:22,646 - INFO - 127.0.0.1 - - [26/Jun/2024 20:41:22] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:42:03,407 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:03] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:42:03,448 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:03] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:42:06,268 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:06] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:42:06,301 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:06] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 20:42:06,307 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:06] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,421 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "GET / HTTP/1.1" 200 -
+2024-06-26 20:42:07,458 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,462 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,473 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,482 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,490 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,491 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,493 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,499 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,517 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:42:07,536 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:07] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:42:10,093 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:10] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:42:10,135 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:10] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 20:42:12,972 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:12] "POST /login HTTP/1.1" 200 -
+2024-06-26 20:42:16,200 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:16] "GET /login HTTP/1.1" 200 -
+2024-06-26 20:42:23,869 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:23] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-26 20:42:23,877 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:23] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:42:23,919 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:23] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 20:42:23,930 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:23] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:42:39,541 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:39] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:42:39,551 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:39] "[32mDELETE /excluir/4 HTTP/1.1[0m" 302 -
+2024-06-26 20:42:39,589 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:39] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 20:42:39,592 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:42:41,474 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:41] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 20:42:41,512 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:41] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 20:42:41,515 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,257 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "GET / HTTP/1.1" 200 -
+2024-06-26 20:42:43,297 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,300 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,311 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,315 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,327 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,330 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,339 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,346 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,349 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:42:43,355 - INFO - 127.0.0.1 - - [26/Jun/2024 20:42:43] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,500 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "GET / HTTP/1.1" 200 -
+2024-06-26 20:46:04,542 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,545 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,548 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,557 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,564 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,582 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,598 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,599 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,604 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:46:04,618 - INFO - 127.0.0.1 - - [26/Jun/2024 20:46:04] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,841 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "GET / HTTP/1.1" 200 -
+2024-06-26 20:55:42,879 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,888 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,890 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,891 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,933 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,944 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,948 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,960 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,968 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:55:42,969 - INFO - 127.0.0.1 - - [26/Jun/2024 20:55:42] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:56:10,938 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:10] "GET / HTTP/1.1" 200 -
+2024-06-26 20:56:10,979 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:56:10,990 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:56:10,995 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:10] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:56:11,001 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:11] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:56:11,022 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:11] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:56:11,026 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:11] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:56:11,028 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:11] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:56:11,029 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:11] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:56:11,160 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:11] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:56:11,171 - INFO - 127.0.0.1 - - [26/Jun/2024 20:56:11] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,839 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "GET / HTTP/1.1" 200 -
+2024-06-26 20:57:27,880 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,883 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,898 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,922 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,932 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,938 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,945 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,954 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,960 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:57:27,969 - INFO - 127.0.0.1 - - [26/Jun/2024 20:57:27] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,044 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "GET / HTTP/1.1" 200 -
+2024-06-26 20:58:12,097 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,102 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,113 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,114 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,124 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,141 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,165 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,166 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,178 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:12,181 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:12] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,215 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "GET / HTTP/1.1" 200 -
+2024-06-26 20:58:24,257 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,264 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,268 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,272 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,288 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,294 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,299 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,309 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,313 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:24,331 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:24] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,734 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "GET / HTTP/1.1" 200 -
+2024-06-26 20:58:27,783 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,787 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,788 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,801 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,810 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,816 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,827 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,837 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,839 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:58:27,854 - INFO - 127.0.0.1 - - [26/Jun/2024 20:58:27] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 20:59:39,409 - INFO - 127.0.0.1 - - [26/Jun/2024 20:59:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,361 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "GET / HTTP/1.1" 200 -
+2024-06-26 21:00:24,422 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,431 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,435 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,436 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,551 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,577 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,603 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,611 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,613 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:00:24,632 - INFO - 127.0.0.1 - - [26/Jun/2024 21:00:24] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,566 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "GET / HTTP/1.1" 200 -
+2024-06-26 21:01:29,607 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,610 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,613 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,623 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,638 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,669 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,670 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,690 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,702 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:01:29,717 - INFO - 127.0.0.1 - - [26/Jun/2024 21:01:29] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:00,024 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "GET / HTTP/1.1" 200 -
+2024-06-26 21:02:00,089 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:02:00,094 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:02:00,096 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:00,106 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:00,107 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:00,115 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:00,123 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:00,123 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-26 21:02:00,143 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:00,158 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:00] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,441 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "GET / HTTP/1.1" 200 -
+2024-06-26 21:02:04,492 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,496 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,507 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,508 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,523 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,525 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,530 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,541 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,545 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:04,551 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:04] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,501 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "GET / HTTP/1.1" 200 -
+2024-06-26 21:02:07,530 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,547 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,547 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,549 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,563 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,569 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,577 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,586 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,591 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:07,597 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:07] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,791 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "GET / HTTP/1.1" 200 -
+2024-06-26 21:02:12,841 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,844 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,851 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,852 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,855 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,872 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,874 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,874 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,879 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:12,902 - INFO - 127.0.0.1 - - [26/Jun/2024 21:02:12] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:02:35,798 - INFO - Novo usuário adicionado: Nome=João, Email=joao@example.com
+2024-06-26 21:02:35,798 - INFO - Usuário editado: Nome=João, Novo Email=joao@example.com, Nova Senha=novasenha123
+2024-06-26 21:02:35,798 - INFO - Usuário excluído: Email=joao@example.com
+2024-06-26 21:02:35,923 - INFO - Novo usuário adicionado: Nome=João, Email=joao@example.com
+2024-06-26 21:02:35,923 - INFO - Usuário editado: Nome=João, Novo Email=joao@example.com, Nova Senha=novasenha123
+2024-06-26 21:02:35,923 - INFO - Usuário excluído: Email=joao@example.com
+2024-06-26 21:03:44,014 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-26 21:03:44,014 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-26 21:03:44,025 - INFO -  * Restarting with stat
+2024-06-26 21:03:44,552 - WARNING -  * Debugger is active!
+2024-06-26 21:03:44,567 - INFO -  * Debugger PIN: 313-943-542
+2024-06-26 21:03:47,933 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:47] "GET / HTTP/1.1" 200 -
+2024-06-26 21:03:48,149 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:03:48,164 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:03:48,164 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:03:48,180 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:03:48,180 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:03:48,180 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-26 21:03:48,202 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:03:48,229 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:03:48,231 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:03:48,231 - INFO - 127.0.0.1 - - [26/Jun/2024 21:03:48] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,203 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "GET / HTTP/1.1" 200 -
+2024-06-26 21:05:03,241 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,261 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,262 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,267 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,281 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,289 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,296 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,316 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,324 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:05:03,326 - INFO - 127.0.0.1 - - [26/Jun/2024 21:05:03] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:07:39,773 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "GET / HTTP/1.1" 200 -
+2024-06-26 21:07:39,828 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:07:39,828 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:07:39,830 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:07:39,842 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-26 21:07:39,844 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:07:39,867 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:07:39,870 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:07:39,874 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:07:39,878 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:07:39,883 - INFO - 127.0.0.1 - - [26/Jun/2024 21:07:39] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,522 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "GET / HTTP/1.1" 200 -
+2024-06-26 21:09:04,582 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,585 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,589 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,594 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,618 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,621 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,632 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,633 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,638 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:09:04,649 - INFO - 127.0.0.1 - - [26/Jun/2024 21:09:04] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,671 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "GET / HTTP/1.1" 200 -
+2024-06-26 21:11:09,712 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,721 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,721 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,723 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,738 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,754 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,761 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,770 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,773 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:11:09,773 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:09] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:11:30,807 - INFO - 127.0.0.1 - - [26/Jun/2024 21:11:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,065 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "GET / HTTP/1.1" 200 -
+2024-06-26 21:12:49,104 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,108 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,114 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,116 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,140 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,145 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,147 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,153 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,167 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:12:49,173 - INFO - 127.0.0.1 - - [26/Jun/2024 21:12:49] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:14:48,516 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "GET / HTTP/1.1" 200 -
+2024-06-26 21:14:48,567 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:14:48,572 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:14:48,572 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:14:48,584 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-26 21:14:48,585 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:14:48,612 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:14:48,617 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:14:48,625 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:14:48,634 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:14:48,635 - INFO - 127.0.0.1 - - [26/Jun/2024 21:14:48] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,024 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "GET / HTTP/1.1" 200 -
+2024-06-26 21:17:54,082 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,089 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,089 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,096 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,121 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,126 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,141 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,148 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,149 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:17:54,162 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:54] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,692 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "GET / HTTP/1.1" 200 -
+2024-06-26 21:17:57,736 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,743 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,749 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,753 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,783 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,804 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,808 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,823 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,826 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:17:57,835 - INFO - 127.0.0.1 - - [26/Jun/2024 21:17:57] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:19,032 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET / HTTP/1.1" 200 -
+2024-06-26 21:19:19,134 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/js/script.js HTTP/1.1" 200 -
+2024-06-26 21:19:19,134 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-26 21:19:19,151 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/img/banner/banner%20(1).png HTTP/1.1" 200 -
+2024-06-26 21:19:19,155 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/img/logo/logo1.jpg HTTP/1.1" 200 -
+2024-06-26 21:19:19,210 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/img/pastores/pr.thiago2.PNG HTTP/1.1" 200 -
+2024-06-26 21:19:19,214 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/img/pastores/pr.stuart2.PNG HTTP/1.1" 200 -
+2024-06-26 21:19:19,223 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/img/social/Facebook-256.png HTTP/1.1" 200 -
+2024-06-26 21:19:19,228 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/img/pr.stuart3.PNG HTTP/1.1" 200 -
+2024-06-26 21:19:19,230 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/img/social/Instagram-256.png HTTP/1.1" 200 -
+2024-06-26 21:19:19,257 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:19] "GET /static/img/social/Youtube-256.png HTTP/1.1" 200 -
+2024-06-26 21:19:26,366 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:26] "GET / HTTP/1.1" 200 -
+2024-06-26 21:19:27,124 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:19:27,125 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:19:27,135 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:19:27,136 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:27,150 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:19:27,160 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:19:27,178 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:19:27,195 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:27,202 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:27,220 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:27] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,232 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "GET / HTTP/1.1" 200 -
+2024-06-26 21:19:28,315 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,320 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,331 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,333 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,368 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,376 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,386 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,392 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,444 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:28,446 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:28] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,404 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "GET / HTTP/1.1" 200 -
+2024-06-26 21:19:31,474 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,479 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,482 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,489 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,498 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,515 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,533 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,554 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,561 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:31,575 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:31] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:19:34,696 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:19:48,988 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:48] "GET /login HTTP/1.1" 200 -
+2024-06-26 21:19:49,085 - INFO - 127.0.0.1 - - [26/Jun/2024 21:19:49] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 21:20:07,291 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:07] "GET /login HTTP/1.1" 200 -
+2024-06-26 21:20:07,347 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:07] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 21:20:10,554 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:10] "POST /login HTTP/1.1" 200 -
+2024-06-26 21:20:12,756 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:12] "GET /login HTTP/1.1" 200 -
+2024-06-26 21:20:15,013 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:15] "GET /cadastro HTTP/1.1" 200 -
+2024-06-26 21:20:15,067 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:15] "[36mGET /static/css/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-26 21:20:33,663 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:33] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-26 21:20:33,678 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:33] "GET /login HTTP/1.1" 200 -
+2024-06-26 21:20:33,722 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:33] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-26 21:20:39,764 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:39] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-26 21:20:39,783 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:39] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 21:20:39,831 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:39] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 21:20:39,833 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:20:52,951 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:52] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 21:20:52,994 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:52] "[32mDELETE /excluir/2 HTTP/1.1[0m" 302 -
+2024-06-26 21:20:53,007 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:53] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 21:20:53,011 - INFO - 127.0.0.1 - - [26/Jun/2024 21:20:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:21:02,002 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:02] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 21:21:02,046 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:02] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 21:21:02,051 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:21:10,330 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:10] "GET /editar/5 HTTP/1.1" 200 -
+2024-06-26 21:21:10,378 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:10] "[36mGET /static/css/style_editreg.css HTTP/1.1[0m" 304 -
+2024-06-26 21:21:23,670 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:23] "[32mPOST /editar/5 HTTP/1.1[0m" 302 -
+2024-06-26 21:21:23,682 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:23] "GET /conteudo HTTP/1.1" 200 -
+2024-06-26 21:21:23,727 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:23] "[36mGET /static/css/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-26 21:21:23,728 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:23] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,015 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "GET / HTTP/1.1" 200 -
+2024-06-26 21:21:30,061 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,064 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,079 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,082 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,084 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,107 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,109 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,121 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,145 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:21:30,152 - INFO - 127.0.0.1 - - [26/Jun/2024 21:21:30] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,486 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "GET / HTTP/1.1" 200 -
+2024-06-26 21:24:00,532 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,535 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,544 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,549 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,563 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,573 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,586 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,597 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,603 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-26 21:24:00,618 - INFO - 127.0.0.1 - - [26/Jun/2024 21:24:00] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:05:02,591 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-27 11:05:02,608 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-27 11:05:02,632 - INFO -  * Restarting with stat
+2024-06-27 11:05:03,851 - WARNING -  * Debugger is active!
+2024-06-27 11:05:03,863 - INFO -  * Debugger PIN: 136-914-938
+2024-06-27 11:05:14,405 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET / HTTP/1.1" 200 -
+2024-06-27 11:05:14,683 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET /static/js/script.js HTTP/1.1" 200 -
+2024-06-27 11:05:14,684 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:05:14,694 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET /static/img/banner/banner%20(1).png HTTP/1.1" 200 -
+2024-06-27 11:05:14,695 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET /static/img/logo/logo1.jpg HTTP/1.1" 200 -
+2024-06-27 11:05:14,774 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET /static/img/pastores/pr.thiago2.PNG HTTP/1.1" 200 -
+2024-06-27 11:05:14,774 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET /static/img/pastores/pr.stuart2.PNG HTTP/1.1" 200 -
+2024-06-27 11:05:14,885 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET /static/img/pr.stuart3.PNG HTTP/1.1" 200 -
+2024-06-27 11:05:14,971 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET /static/img/social/Facebook-256.png HTTP/1.1" 200 -
+2024-06-27 11:05:14,982 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:14] "GET /static/img/social/Instagram-256.png HTTP/1.1" 200 -
+2024-06-27 11:05:15,037 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:15] "GET /static/img/social/Youtube-256.png HTTP/1.1" 200 -
+2024-06-27 11:05:18,734 - INFO - 127.0.0.1 - - [27/Jun/2024 11:05:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-27 11:13:45,597 - INFO - 127.0.0.1 - - [27/Jun/2024 11:13:45] "GET /login HTTP/1.1" 200 -
+2024-06-27 11:13:45,668 - INFO - 127.0.0.1 - - [27/Jun/2024 11:13:45] "GET /static/css/style_login.css HTTP/1.1" 200 -
+2024-06-27 11:13:48,405 - INFO - 127.0.0.1 - - [27/Jun/2024 11:13:48] "POST /login HTTP/1.1" 200 -
+2024-06-27 11:13:50,441 - INFO - 127.0.0.1 - - [27/Jun/2024 11:13:50] "GET /login HTTP/1.1" 200 -
+2024-06-27 11:14:00,960 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:00] "POST /login HTTP/1.1" 200 -
+2024-06-27 11:14:05,600 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:05] "GET /login HTTP/1.1" 200 -
+2024-06-27 11:14:08,497 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:08] "GET /cadastro HTTP/1.1" 200 -
+2024-06-27 11:14:08,574 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:08] "GET /static/css/style_cadastro.css HTTP/1.1" 200 -
+2024-06-27 11:14:13,002 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "GET / HTTP/1.1" 200 -
+2024-06-27 11:14:13,078 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-27 11:14:13,080 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:14:13,114 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:14:13,131 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:14:13,179 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:14:13,180 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:14:13,191 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:14:13,194 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:14:13,194 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:14:13,233 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:13] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:14:14,686 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:14] "GET /login HTTP/1.1" 200 -
+2024-06-27 11:14:14,749 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:14] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-06-27 11:14:38,871 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:38] "POST /login HTTP/1.1" 200 -
+2024-06-27 11:14:41,621 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:41] "GET /login HTTP/1.1" 200 -
+2024-06-27 11:14:45,657 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:45] "POST /login HTTP/1.1" 200 -
+2024-06-27 11:14:47,076 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:47] "GET /login HTTP/1.1" 200 -
+2024-06-27 11:14:49,853 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:49] "GET /cadastro HTTP/1.1" 200 -
+2024-06-27 11:14:49,909 - INFO - 127.0.0.1 - - [27/Jun/2024 11:14:49] "[36mGET /static/css/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-27 11:19:49,291 - INFO - 127.0.0.1 - - [27/Jun/2024 11:19:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-27 11:27:31,383 - INFO -  * Detected change in 'g:\\Meu Drive\\_Dev.WEB\\PROJETOS\\3. IGREJA\\IPHv8\\app.py', reloading
+2024-06-27 11:27:31,438 - INFO -  * Restarting with stat
+2024-06-27 11:28:41,822 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-27 11:28:41,825 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-27 11:28:41,840 - INFO -  * Restarting with stat
+2024-06-27 11:28:42,928 - WARNING -  * Debugger is active!
+2024-06-27 11:28:42,943 - INFO -  * Debugger PIN: 136-914-938
+2024-06-27 11:28:47,239 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "GET / HTTP/1.1" 200 -
+2024-06-27 11:28:47,444 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-27 11:28:47,451 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:28:47,453 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:28:47,474 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:28:47,551 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:28:47,551 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:28:47,554 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:28:47,555 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:28:47,561 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:28:47,581 - INFO - 127.0.0.1 - - [27/Jun/2024 11:28:47] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:33:19,266 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "GET / HTTP/1.1" 200 -
+2024-06-27 11:33:19,348 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:33:19,355 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:33:19,393 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:33:19,408 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:33:19,476 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:33:19,480 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:33:19,502 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:33:19,503 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:33:19,504 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:33:19,508 - INFO - 127.0.0.1 - - [27/Jun/2024 11:33:19] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:34:26,372 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "GET / HTTP/1.1" 200 -
+2024-06-27 11:34:26,445 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:34:26,456 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:34:26,456 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:34:26,457 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:34:26,589 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:34:26,589 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:34:26,589 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:34:26,613 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:34:26,613 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:34:26,613 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:26] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:34:41,194 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "GET / HTTP/1.1" 200 -
+2024-06-27 11:34:41,265 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:34:41,266 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:34:41,268 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:34:41,309 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:34:41,320 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:34:41,334 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:34:41,478 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:34:41,478 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:34:41,479 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:34:41,479 - INFO - 127.0.0.1 - - [27/Jun/2024 11:34:41] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:35:13,904 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:13] "GET / HTTP/1.1" 200 -
+2024-06-27 11:35:13,973 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:13] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:35:13,976 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:13] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:35:13,989 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:13] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:35:13,991 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:13] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:35:14,090 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:14] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:35:14,090 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:14] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:35:14,102 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:14] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:35:14,103 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:14] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:35:14,103 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:14] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:35:14,104 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:14] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:35:41,410 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "GET / HTTP/1.1" 200 -
+2024-06-27 11:35:41,469 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:35:41,476 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:35:41,478 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:35:41,478 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:35:41,586 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:35:41,588 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:35:41,588 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:35:41,588 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:35:41,589 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:35:41,591 - INFO - 127.0.0.1 - - [27/Jun/2024 11:35:41] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:02,866 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:02] "GET / HTTP/1.1" 200 -
+2024-06-27 11:36:02,944 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:36:02,956 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:02] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:36:02,956 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:02] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:02,959 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:02] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:36:03,042 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:03] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:03,043 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:03] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:03,070 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:03] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:03,082 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:03] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:03,084 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:03] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:03,087 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:03] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:13,788 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "GET / HTTP/1.1" 200 -
+2024-06-27 11:36:13,845 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:36:13,848 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:36:13,858 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:36:13,862 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:13,955 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:13,955 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:13,956 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:13,957 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:13,963 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:13,964 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:13] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:24,383 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "GET / HTTP/1.1" 200 -
+2024-06-27 11:36:24,441 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:36:24,447 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:36:24,450 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:36:24,452 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:24,537 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:24,563 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:24,564 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:24,564 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:24,564 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:24,586 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:24] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:35,936 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:35] "GET / HTTP/1.1" 200 -
+2024-06-27 11:36:35,991 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:35] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:36:36,000 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:36] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:36,000 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:36] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:36:36,001 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:36] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:36:36,072 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:36] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:36,083 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:36] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:36,110 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:36] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:36,110 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:36] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:36,110 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:36] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:36,122 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:36] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:53,638 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "GET / HTTP/1.1" 200 -
+2024-06-27 11:36:53,698 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:36:53,706 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:36:53,707 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:53,707 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:36:53,778 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:53,796 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:53,824 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:36:53,827 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:53,832 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:36:53,832 - INFO - 127.0.0.1 - - [27/Jun/2024 11:36:53] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:37:25,906 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:25] "GET / HTTP/1.1" 200 -
+2024-06-27 11:37:25,979 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:25] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:37:25,990 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:25] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:37:25,990 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:25] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:37:25,999 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:25] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:37:26,082 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:26] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:37:26,083 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:26] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:37:26,102 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:26] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:37:26,105 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:26] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:37:26,105 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:26] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:37:26,124 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:26] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:37:41,933 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:41] "GET / HTTP/1.1" 200 -
+2024-06-27 11:37:41,998 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:37:42,012 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:42] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:37:42,012 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:42] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:37:42,012 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:42] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:37:42,141 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:42] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:37:42,141 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:42] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:37:42,141 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:42] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:37:42,153 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:42] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:37:42,210 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:42] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:37:42,214 - INFO - 127.0.0.1 - - [27/Jun/2024 11:37:42] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:08,724 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "GET / HTTP/1.1" 200 -
+2024-06-27 11:38:08,779 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:38:08,790 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:38:08,790 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:38:08,790 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:08,895 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:08,896 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:08,896 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:08,896 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:08,896 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:08,904 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:08] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:27,158 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "GET / HTTP/1.1" 200 -
+2024-06-27 11:38:27,214 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:38:27,226 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:38:27,226 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:38:27,227 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:27,314 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:27,314 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:27,314 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:27,344 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:27,344 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:27,344 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:27] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:37,140 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "GET / HTTP/1.1" 200 -
+2024-06-27 11:38:37,211 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:38:37,213 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:38:37,231 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:38:37,242 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:37,361 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:37,381 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:37,401 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:37,426 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:37,427 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:37,427 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:37] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:44,788 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "GET / HTTP/1.1" 200 -
+2024-06-27 11:38:44,849 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:38:44,849 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:38:44,882 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:38:44,882 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:44,967 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:44,967 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:44,971 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:38:44,971 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:44,971 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:38:44,971 - INFO - 127.0.0.1 - - [27/Jun/2024 11:38:44] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:39:12,681 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "GET / HTTP/1.1" 200 -
+2024-06-27 11:39:12,750 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:39:12,751 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:39:12,777 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:39:12,781 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:39:12,867 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:39:12,874 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:39:12,877 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:39:12,900 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:39:12,901 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:39:12,931 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:12] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:39:20,562 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "GET / HTTP/1.1" 200 -
+2024-06-27 11:39:20,621 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-06-27 11:39:20,622 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-06-27 11:39:20,637 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-06-27 11:39:20,640 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-06-27 11:39:20,717 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:39:20,717 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:39:20,717 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-06-27 11:39:20,718 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:39:20,718 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:39:20,735 - INFO - 127.0.0.1 - - [27/Jun/2024 11:39:20] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -
+2024-06-27 11:40:58,556 - INFO -  * Detected change in 'g:\\Meu Drive\\_Dev.WEB\\PROJETOS\\3. IGREJA\\IPHv8\\conexao.py', reloading
+2024-06-27 11:40:58,603 - INFO -  * Restarting with stat
+2024-09-04 20:38:37,463 - INFO - Novo usuário adicionado: Nome=João, Email=joao@example.com
+2024-09-04 20:38:37,465 - INFO - Usuário editado: Nome=João, Novo Email=joao@example.com, Nova Senha=novasenha123
+2024-09-04 20:38:37,465 - INFO - Usuário excluído: Email=joao@example.com
+2024-09-04 20:50:13,398 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-04 20:50:13,398 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-04 20:50:13,402 - INFO -  * Restarting with stat
+2024-09-04 20:50:13,920 - WARNING -  * Debugger is active!
+2024-09-04 20:50:13,929 - INFO -  * Debugger PIN: 119-025-296
+2024-09-04 20:50:24,192 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET / HTTP/1.1" 200 -
+2024-09-04 20:50:24,406 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-09-04 20:50:24,422 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/js/script.js HTTP/1.1" 200 -
+2024-09-04 20:50:24,459 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/img/banner/banner%20(1).png HTTP/1.1" 200 -
+2024-09-04 20:50:24,479 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/img/pastores/pr.thiago2.PNG HTTP/1.1" 200 -
+2024-09-04 20:50:24,523 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/img/logo/logo1.jpg HTTP/1.1" 200 -
+2024-09-04 20:50:24,595 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/img/pastores/pr.stuart2.PNG HTTP/1.1" 200 -
+2024-09-04 20:50:24,613 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/img/pr.stuart3.PNG HTTP/1.1" 200 -
+2024-09-04 20:50:24,633 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/img/social/Facebook-256.png HTTP/1.1" 200 -
+2024-09-04 20:50:24,639 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/img/social/Instagram-256.png HTTP/1.1" 200 -
+2024-09-04 20:50:24,681 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:24] "GET /static/img/social/Youtube-256.png HTTP/1.1" 200 -
+2024-09-04 20:50:36,361 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:36] "GET /login HTTP/1.1" 200 -
+2024-09-04 20:50:36,379 - INFO - 127.0.0.1 - - [04/Sep/2024 20:50:36] "GET /static/css/style_login.css HTTP/1.1" 200 -
+2024-09-05 19:35:05,011 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:05] "[36mGET /static/css/style_login.css HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,564 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,568 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,618 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/img/logo/logo1.jpg HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,710 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/img/banner/banner%20(1).png HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,775 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/img/pastores/pr.thiago2.PNG HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,786 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/img/pastores/pr.stuart2.PNG HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,799 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/img/social/Facebook-256.png HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,820 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/img/pr.stuart3.PNG HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,861 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/img/social/Instagram-256.png HTTP/1.1[0m" 304 -
+2024-09-05 19:35:22,876 - INFO - 127.0.0.1 - - [05/Sep/2024 19:35:22] "[36mGET /static/img/social/Youtube-256.png HTTP/1.1[0m" 304 -

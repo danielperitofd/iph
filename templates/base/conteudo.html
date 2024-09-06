@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style_conteudo.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <!-- Referencie o arquivo JavaScript externo -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <title>USUÁRIOS</title>
+</head>
+<body>
+    <h1>Conteúdo</h1>
+    <table class="styled-table">
+        <tr>
+            <th>Nome</th>
+            <th>E-mail</th>
+            <th>Senha</th>
+            <th>Excluir</th>
+            <th>Alterar</th>
+        </tr>
+        {% for usuario in usuarios %}
+
+        <!-- Adicione um identificador único a cada linha da tabela -->
+        <tr class="active-row" data-id="{{ usuario[0] }}">
+            
+            <td>{{ usuario[1] }}</td>
+            <td>{{ usuario[2] }}</td>
+            <td>{{ usuario[3] }}</td>
+            
+            <!-- Ícone de lixeira para excluir -->
+            <td><a href="#" class="delete-icon" data-id="{{ usuario[0] }}"><i class="fas fa-trash-alt"></i></a></td>
+            
+            <!-- Ícone de lápis para editar -->
+            <td><a href="/editar/{{usuario[0]}}"><i class="fas fa-edit"></i></a></td>
+        </tr>
+
+        {% endfor %}
+
+    </table>
+    <p></p>
+    <!-- Adicione este link para sair -->
+    <a href="{{ url_for('index') }}"><h2>Sair</h2></a>
+
+    <!-- Script para recarregar a página -->
+    <script>
+        function refreshPage() {
+            location.reload(); // Isso irá recarregar a página
+        }
+        
+        // Adicione um evento de clique para os links de exclusão
+        document.querySelectorAll('.delete-icon').forEach(item => {
+            item.addEventListener('click', function(e) {
+                e.preventDefault(); // Previne o comportamento padrão do link
+                refreshPage(); // Chama a função para recarregar a página
+            });
+        });
+    </script>
+
+</body>
+</html>
